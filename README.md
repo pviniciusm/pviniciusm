@@ -1,4 +1,4 @@
-### Hello world, I'm <a href="https://www.linkedin.com/in/paulovinicius-cardoso/">Paulo Cardoso</a>! 👋
+### Hello world, I'm <a href="https://www.linkedin.com/in/paulovinicius-cardoso/" target="_blank">Paulo Cardoso</a>! 👋
 
 Sou Mestre em Ciência da Computação (UFSM/2019) e atuo como:
 - 🧑‍💼 **Analista de Sistemas** no Banco do Estado do Rio Grande do Sul (Banrisul/Vero);
